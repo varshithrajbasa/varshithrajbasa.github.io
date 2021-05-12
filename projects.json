@@ -1,0 +1,51 @@
+[	
+	{
+      "image": "https://s3.amazonaws.com/www-inside-design/uploads/2018/05/weather-app-4_feature-983x740.jpg",
+      "name": "Weather App",
+      "about": "A Weather Application, displays Weather depends on Location.",
+      "technology": "Flutter, Dart, Android Studio",
+      "link": "https://github.com/varshithrajbasa/Clima-Flutter"
+    },
+    {
+      "image": "https://i.pinimg.com/originals/a7/1a/fc/a71afc4425785506e03078b742c6b64e.png",
+      "name": "BMI Calculator App",
+      "about": "This Application Calculates Your BMI by using Height and Weight",
+      "technology": "Flutter, Dart, Android Studio",
+      "link": "https://github.com/varshithrajbasa/bmi-calculator-flutter"
+    },
+    {
+      "image": "https://varshithrajbasa.github.io/files/Port-Scanner/Port-Scanner.gif",
+      "name": "Open Port Scanner",
+      "about": "Open Port Scanner is a open source tool which is used to find all open ports on a IP address.",
+      "technology": "Python3, Socket.io",
+      "link": "https://github.com/varshithrajbasa/Port-Scanner"
+    },
+    {
+      "image": "https://www.israel21c.org/wp-content/uploads/2018/11/eyeSight_-_Driver_Monitoring_Driver_Asleep_1-1168x657.jpg",
+      "name": "Driver Drowsiness Detection",
+      "about": "This Project will alert Drivers when they feel Drowsy and send an alert to avoid accident",
+      "technology": "Python3, OpenCV, Dlib, Imutils, Scipy, Numpy, Tkinter",
+      "link": "https://github.com/varshithrajbasa/Driver-Drowsiness-Detection-using-Visual-behavior-and-Machine-Learning"
+    },
+    {
+      "image": "https://miro.medium.com/max/3120/1*6XAf0oi88MRCBbCd_cHcew.png",
+      "name": "Data Vizualization",
+      "about": "A project based on online test and results are Vizualized for easy Understanding",
+      "technology": "Java, JFree Chart, JSP, Apache, Eclipse",
+      "link": "https://github.com/varshithrajbasa/Data-Vizualization"
+    },
+    {
+      "image": "https://cdn.dribbble.com/users/2806911/screenshots/11482888/bank_-_dashboard_.png",
+      "name": "Retail Banking",
+      "about": "Retail Banking Project Allows admin to manage Customers and View Customer Stats, Account Stats, Deposit and Withdraw Money.",
+      "technology": "Python, Flask, MySQL, HTML, CSS, JS",
+      "link": "https://github.com/varshithrajbasa/RetailBanking"
+    },
+    {
+      "image": "https://lh3.googleusercontent.com/QIzmXTimA7lxFw5LqTGHLfLUXjqy0EZEeRhWGoBbhDYBNerhiqh9tBywQXZ2MpZiow=w412-h220-rw",
+      "name": "HMS",
+      "about": "Hospital Management Project Allows admin to manage Patients and view Diagnostics and Issue Medicines.",
+      "technology": "Python, Flask, MySQL, HTML, CSS, Jquery, JS",
+      "link": "https://github.com/varshithrajbasa/hydhospital"
+    }
+]
