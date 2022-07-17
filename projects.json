@@ -1,0 +1,57 @@
+[	
+	{
+      "name": "Expense Tracker",
+      "about": "A Expense Tracker Application, add and view expenses. This Project was made using React JS",
+      "technology": "Angular, Bootstrap, HTML, CSS",
+      "link": "https://github.com/varshithrajbasa/ExpenseTracker-React"
+    },
+	{
+      "name": "Todo App",
+      "about": "A Todo Application, create todos and track checklist. This Project was made using Angular and Bootstrap",
+      "technology": "Angular, Bootstrap, HTML, CSS",
+      "link": "https://github.com/varshithrajbasa/Todo-App-Angular"
+    },
+	{
+      "name": "Weather App",
+      "about": "A Weather Application, displays Weather depends on Location.",
+      "technology": "Flutter, Dart, Android Studio",
+      "link": "https://github.com/varshithrajbasa/Clima-Flutter"
+    },
+    {
+      "name": "BMI Calculator App",
+      "about": "This Application Calculates Your BMI by using Height and Weight",
+      "technology": "Flutter, Dart, Android Studio",
+      "link": "https://github.com/varshithrajbasa/bmi-calculator-flutter"
+    },
+    {
+      "image": "https://varshithrajbasa.github.io/files/Port-Scanner/Port-Scanner.gif",
+      "name": "Open Port Scanner",
+      "about": "Open Port Scanner is a open source tool which is used to find all open ports on a IP address.",
+      "technology": "Python3, Socket.io",
+      "link": "https://github.com/varshithrajbasa/Port-Scanner"
+    },
+    {
+      "name": "Driver Drowsiness Detection",
+      "about": "This Project will alert Drivers when they feel Drowsy and send an alert to avoid accident",
+      "technology": "Python3, OpenCV, Dlib, Imutils, Scipy, Numpy, Tkinter",
+      "link": "https://github.com/varshithrajbasa/Driver-Drowsiness-Detection-using-Visual-behavior-and-Machine-Learning"
+    },
+    {
+      "name": "Data Vizualization",
+      "about": "A project based on online test and results are Vizualized for easy Understanding",
+      "technology": "Java, JFree Chart, JSP, Apache, Eclipse",
+      "link": "https://github.com/varshithrajbasa/Data-Vizualization"
+    },
+    {
+      "name": "Retail Banking",
+      "about": "Retail Banking Project Allows admin to manage Customers and View Customer Stats, Account Stats, Deposit and Withdraw Money.",
+      "technology": "Python, Flask, MySQL, HTML, CSS, JS",
+      "link": "https://github.com/varshithrajbasa/RetailBanking"
+    },
+    {
+      "name": "Hospital Management System",
+      "about": "Hospital Management Project Allows admin to manage Patients and view Diagnostics and Issue Medicines.",
+      "technology": "Python, Flask, MySQL, HTML, CSS, Jquery, JS",
+      "link": "https://github.com/varshithrajbasa/hydhospital"
+    }
+]
